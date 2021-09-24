@@ -15,6 +15,7 @@ jobs:
           - '2.4'
           - '2.3'
           - 'jruby-9.2.19.0'
+          - truffleruby-head
         gemfile:
           - gemfiles/rails_61.gemfile
           - gemfiles/rails_60.gemfile
